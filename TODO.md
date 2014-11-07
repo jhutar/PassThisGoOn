@@ -1,0 +1,2 @@
+- [ ] no need to have secret in data.csv
+- [ ] would be nice to have actual answer to given team/question in data.csv
